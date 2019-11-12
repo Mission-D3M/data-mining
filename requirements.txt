@@ -1,4 +1,4 @@
 jupyter
 matplotlib
 geopandas
-request
+requests
